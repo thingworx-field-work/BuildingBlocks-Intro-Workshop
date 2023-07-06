@@ -2,8 +2,11 @@
 Building Block Introductory Workshop - estimated duration 2 hours
 
 The objective is to give an introduction of what the building blocks are, their benefits and examples. 
+
 The hands-on exercise cover the UI and standard building block design patterns which are the most commonly used in the field projects. 
+
 For deeper training there is a Building Blocks Detailed Workshop with a duration of 6 hours where all block types are explained and exampled. 
+
 For both workshops please contact CoE Romania Team. 
 
 The attendees of this workshop should have functional Thingworx development skills in order to follow the hands-on exercise.
