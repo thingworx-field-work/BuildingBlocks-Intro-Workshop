@@ -1,4 +1,4 @@
-# BuildingBlocks-Intro-Workshop
+# Building Block Introductory Workshop
 Building Block Introductory Workshop - estimated duration 2 hours
 
 The objective is to give an introduction of what the building blocks are, their benefits and examples. 
