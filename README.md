@@ -9,8 +9,6 @@ For both workshops please contact CoE Romania Team.
 The attendees of this workshop should have functional Thingworx development skills in order to follow the hands-on exercise.
 The target audience for the workshop are software engineers, architects, technical managers that need to build applications based on the Thingworx platform. 
 
-Authors: Stefan Neagu, Bogdan Baranga
-
 Keywords: iot, thingworx, building blocks, solution framework
 
 **Disclaimer**
