@@ -14,7 +14,7 @@ The target audience for the workshop are software engineers, architects, technic
 
 Keywords: iot, thingworx, building blocks, solution framework
 
-** Keywords **  
+# Keywords
 iot, thingworx, building blocks, solution framework
 
 # Disclaimer
